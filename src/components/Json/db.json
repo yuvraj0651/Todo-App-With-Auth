@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Yuvraj Ganshi",
+      "email": "yuvraj0651@gmail.com",
+      "username": "yuvraj",
+      "password": "Password1234",
+      "role": "admin",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "fullName": "Aman Sharma",
+      "email": "aman@gmail.com",
+      "username": "aman",
+      "password": "Aman@123",
+      "role": "user",
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "fullName": "Neha Verma",
+      "email": "neha@gmail.com",
+      "username": "neha",
+      "password": "Neha@123",
+      "role": "user",
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "fullName": "Rohit Singh",
+      "email": "rohit@gmail.com",
+      "username": "rohit",
+      "password": "Rohit@123",
+      "role": "user",
+      "isActive": false
+    },
+    {
+      "id": 5,
+      "fullName": "Pooja Patel",
+      "email": "pooja@gmail.com",
+      "username": "pooja",
+      "password": "Pooja@123",
+      "role": "user",
+      "isActive": true
+    },
+    {
+      "id": "1110",
+      "fullName": "Yuvraj Ganshi",
+      "email": "yuvrajsingh@gmail.com",
+      "password": "Aceinfo@2531",
+      "username": "yuvrajsingh"
+    }
+  ]
+}
