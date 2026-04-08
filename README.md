@@ -47,7 +47,7 @@ A modern Todo application with user authentication, allowing users to securely m
 Clone the repository and run locally:
 
 ```bash
-git clone [https://github.com/yuvraj0651/todo-app-with-auth.git](https://github.com/yuvraj0651/Todo-App-With-Auth.git)
+git clone https://github.com/yuvraj0651/Todo-App-With-Auth.git
 
 cd todo-app-with-auth
 npm install
