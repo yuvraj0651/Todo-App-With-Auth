@@ -1,4 +1,4 @@
-# ✅ Todo App with Authentication 🚀
+# ✅ Todo App with Authentication 
 
 ## 📌 Overview
 A modern Todo application with user authentication, allowing users to securely manage their tasks with features like create, update, delete, and persistent state handling. Built with a focus on clean UI, scalability, and real-world user flows.
