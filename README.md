@@ -18,7 +18,6 @@ A modern Todo application with user authentication, allowing users to securely m
 - 📝 Create, update, and delete tasks (CRUD)
 - ✅ Mark tasks as completed / pending
 - 🔍 Filter tasks (All / Completed / Pending)
-- 💾 Persistent data storage (API / Firebase)
 - 🔄 Real-time UI updates with Redux Toolkit
 - 🔒 Protected routes for authenticated users
 - 📱 Fully responsive design
