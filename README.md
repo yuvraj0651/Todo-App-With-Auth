@@ -3,6 +3,15 @@
 ## 📌 Overview
 A modern Todo application with user authentication, allowing users to securely manage their tasks with features like create, update, delete, and persistent state handling. Built with a focus on clean UI, scalability, and real-world user flows.
 
+![React](https://img.shields.io/badge/React-JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Authentication](https://img.shields.io/badge/Auth-Login%2FSignup-red?style=for-the-badge)
+![ProtectedRoutes](https://img.shields.io/badge/Protected-Routes-blue?style=for-the-badge)
+![TodoApp](https://img.shields.io/badge/Todo-App-green?style=for-the-badge)
+![CRUD](https://img.shields.io/badge/CRUD-Operations-orange?style=for-the-badge)
+![UserData](https://img.shields.io/badge/User-Data-Secure-purple?style=for-the-badge)
+![Responsive](https://img.shields.io/badge/Responsive-Design-0A66C2?style=for-the-badge)
+
 ---
 
 ## 🛠️ Tech Stack
