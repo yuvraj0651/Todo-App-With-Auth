@@ -52,6 +52,11 @@ A modern Todo application with user authentication, allowing users to securely m
 
 ---
 
+## Live-Demo -
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=netlify)](https://todomasterr-app.netlify.app/)
+
+---
+
 ## 🚀 Installation
 
 Clone the repository and run locally:
