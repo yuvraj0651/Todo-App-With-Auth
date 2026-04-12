@@ -1,4 +1,5 @@
 # ✅ Todo App with Authentication 
+![Todo-App-Auth](https://github.com/user-attachments/assets/fda747c6-3dfd-4d63-9f37-f84a0ebee2cb)
 
 ## 📌 Overview
 A modern Todo application with user authentication, allowing users to securely manage their tasks with features like create, update, delete, and persistent state handling. Built with a focus on clean UI, scalability, and real-world user flows.
